@@ -1,0 +1,64 @@
+/* 
+    Created on : 17 févr. 2021, 19:56:56
+    Author     : iromos
+*/
+
+/* GENERAL */
+#navbarSupportedContent > ul > li > a:hover{
+    color: lightcoral;
+}
+
+.label-file {
+    cursor: pointer;
+    color: #00b1ca;
+    font-weight: bold;
+}
+.label-file:hover {
+    color: #25a5c4;
+}
+
+.input-file {
+    display: none;
+}
+
+.etat_appareil{
+    font-style: italic;
+}
+
+.card{
+    margin-bottom: 18px;
+}
+
+footer{
+    margin-top: 20px;
+
+}
+
+.dangr{
+    color: #ed5565;
+}
+
+.attnt{
+    color: #009966;
+}
+
+.sslign{
+    text-decoration: underline;
+}
+
+.btn-statut{
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+input[type=checkbox] {
+    vertical-align: middle;
+    position: relative;
+    bottom: 1px;
+}
+
+label {
+    display: block;
+}
